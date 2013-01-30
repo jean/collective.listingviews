@@ -39,7 +39,7 @@ to your needs using CSS or Diazo. Each view consists of:
   collection items;
 - unique CSS classes for the lists and each field type.
 
-By default Fields that can make up a ListingView are :
+By default Fields that can make up a ListingView are:
 
 - Creation Date (Date, Date & Time)
 - Creator
@@ -56,7 +56,7 @@ By default Fields that can make up a ListingView are :
 - Tags
 - Title (with or without Link)
 - Total number of comments
-- + any custom TAL expressions
+- and any custom TAL expressions
 
 Worked Examples
 ===============
